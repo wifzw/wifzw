@@ -7,9 +7,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wifzw&show_icons=true&locale=en&layout=compact" alt="wifzw" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=wifzw&show_icons=true&locale=en" alt="wifzw" /></p>
-
-
 <div align="center">
 <img src="./Jaspion-Flashman-Jiraiya.gif" alt="@Kauan_Motta">
 </div>
