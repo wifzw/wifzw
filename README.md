@@ -13,6 +13,3 @@
  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=wifzw&show_icons=true&locale=en&layout=compact" alt="wifzw" />
 </p>
 
-<p align="center">
-  <img src="./Jaspion-Flashman-Jiraiya.gif" alt="@Kauan_Motta">
-</p>
